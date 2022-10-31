@@ -1,0 +1,1 @@
+INSERT INTO poc.users VALUES ('Administrator', '$2a$10$Ez5kc4IahGhaQuXLIG3QjO1Kie1a8mRoO2km2ZyM2Acwhz7EuCeba')
